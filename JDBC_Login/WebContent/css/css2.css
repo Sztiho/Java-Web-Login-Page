@@ -1,0 +1,31 @@
+body{
+		margin:0;
+		padding:0;
+		background:url("zx.jpg") no-repeat;
+		background-size:100%;
+}
+
+.con{
+	width:61.8%;
+	margin:auto;
+	text-align:center
+}
+.box1{
+	border-radius:8px;
+}
+.box2{
+	outline: none;
+	width:55px;
+	height:35px;
+	border:0;
+	background:#81c7d4;
+	border-radius:12px;
+	color:#ffffff;
+}
+.box2:hover{
+	background-color:#82D8EF;
+}
+
+.box2:active{
+	background-color:#6699A1;
+}
